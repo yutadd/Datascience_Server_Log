@@ -2,3 +2,4 @@
 /data/access.log
 /data/access.csv
 data/GeoLite2-City.mmdb
+data/access_1000.csv
